@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/uniwork/2017/s1/oop/practical-exam-03'
+let g:netrw_dirhist_2='/home/uniwork/testPrac/prac1'
+let g:netrw_dirhist_3='/home/uniwork/testPrac/prac2'
+let g:netrw_dirhist_4='/home/uniwork/2017/s2/adds/assignment2'
+let g:netrw_dirhist_5='/home/uniwork/2017/s2/adds/assignment4'
+let g:netrw_dirhist_6='/home/uniwork/2017/s2/adds/assignment5'
+let g:netrw_dirhist_7='/home/uniwork/2017/s2/cs/assignment2'
+let g:netrw_dirhist_8='/home/uniwork/pracExam'
